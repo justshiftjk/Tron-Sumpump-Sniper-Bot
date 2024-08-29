@@ -6,6 +6,8 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 
 - [Live link](https://t.me/sunpump_tron_sniper_bot)
 
+  ![sunpump-tg](https://github.com/user-attachments/assets/a8701743-ff99-4113-bc23-2441f438934b)
+
 ## Features
 
 - **Automated Token Sniping**: Monitor specific token contracts and automatically execute trades as soon as a liquidity pair is established on SunSwap.
@@ -14,8 +16,6 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 - **Automated Buying and Selling**: Automatically buying and selling tokens.
 - **Telegram Integration**: Control and monitor the bot directly from your Telegram account with an intuitive interface.
 - **Secure Data Storage with MongoDB**: Store user data securely using MongoDB, ensuring privacy and reliability.
-
-![sunpump-tg](https://github.com/user-attachments/assets/a8701743-ff99-4113-bc23-2441f438934b)
 
 ## Contact
 
