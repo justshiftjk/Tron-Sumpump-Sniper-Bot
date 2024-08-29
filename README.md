@@ -15,7 +15,7 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 - **Effortless Trading**: Simplify buying and selling tokens on the TRON network with automated trade execution.
 - **Automated Buying and Selling**: Automatically buying and selling tokens.
 - **Telegram Integration**: Control and monitor the bot directly from your Telegram account with an intuitive interface.
-- **Secure Data Storage with MongoDB**: Store user data securely using MongoDB, ensuring privacy and reliability.
+- **Secure Data Storage Management**: Store user data securely, ensuring privacy and reliability.
 
 ## Contact
 
